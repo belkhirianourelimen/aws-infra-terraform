@@ -1,0 +1,46 @@
+### Terraform ###
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+terraform.tfstate.d/
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+*.tfvars
+*.tfvars.json
+!*.tfvars.example
+!example.tfvars
+terraform_outputs_backup.txt
+*outputs_backup*
+
+### Secrets / Env ###
+.env
+.env.*
+!*.env.example
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+credentials.json
+kubeconfig
+*.kubeconfig
+
+### AWS ###
+.aws/
+aws-credentials*
+
+### IDE / OS ###
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+### Logs & Temp ###
+*.log
+*.tmp
