@@ -31,5 +31,4 @@ variable "openai_api_key" {
 variable "alarm_email" {
   description = "Email address for CloudWatch alarms and SNS notifications"
   type        = string
-  default     = "n.belkhiria@wellnesshub.com.tn"
 }
