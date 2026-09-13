@@ -10,20 +10,6 @@
 
 ---
 
-## Contexte du projet
-
-**Projet de Fin d'Études (PFE) — ESPRIT 2024/2025**
-
-| Champ | Valeur |
-|-------|--------|
-| Projet | Mise en place d'une Infrastructure Cloud AWS et DevOps Hybride |
-| Etudiante | Nour El Imen Belkhiria — ESPRIT, 5ème année Cloud & DevOps |
-| Entreprise | WellnessHub × AuroraIQ |
-| Approche | Infrastructure as Code (IaC) — modules réutilisables |
-| Backend State | AWS S3 + DynamoDB (verrouillage du state) |
-
----
-
 ## Architecture AWS provisionnée
 
 ```
@@ -332,4 +318,4 @@ terraform {
 
 ---
 
-*Nour El Imen Belkhiria — ESPRIT × WellnessHub — 2026*
+*Nour El Imen Belkhiria — 2026*
