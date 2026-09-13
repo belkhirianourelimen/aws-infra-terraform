@@ -314,7 +314,7 @@ terraform {
 ## Liens utiles
 
 - 📦 [k8s-manifests](https://github.com/belkhirianourelimen/k8s-manifests) — Orchestration Kubernetes
-- 🔄 [wellnesshub-cicd](https://github.com/belkhirianourelimen/ci-cd.git) — Pipelines Jenkins CI/CD
+- 🔄 [ci-cd](https://github.com/belkhirianourelimen/ci-cd.git) — Pipelines Jenkins CI/CD
 
 ---
 
