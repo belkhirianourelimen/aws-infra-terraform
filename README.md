@@ -34,9 +34,9 @@ terraform apply
 
 Ce repo fait partie d'un ensemble de projets réalisés dans le cadre d'un PFE (Cloud Computing & DevOps) :
 
-- `wellnesshub-infra-terraform` — ce repo (Infrastructure as Code)
-- `wellnesshub-k8s-manifests` — orchestration Kubernetes (environnement de validation)
-- `wellnesshub-ci-cd` — pipeline CI/CD Jenkins (build, scan, déploiement)
+- `aws-infra-terraform` — ce repo (Infrastructure as Code)
+- `k8s-manifests` — orchestration Kubernetes (environnement de validation)
+- `ci-cd` — pipeline CI/CD Jenkins (build, scan, déploiement)
 
 ## ⚠️ Note sécurité
 
