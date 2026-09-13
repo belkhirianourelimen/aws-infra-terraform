@@ -21,7 +21,6 @@ variable "rds_identifier" {
 variable "alarm_email" {
   description = "Email address for CloudWatch alarms"
   type        = string
-  default     = "n.belkhiria@wellnesshub.com.tn"
 }
 
 variable "lambda_function_name" {
